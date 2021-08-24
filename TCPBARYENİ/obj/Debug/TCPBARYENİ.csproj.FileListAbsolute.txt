@@ -1,0 +1,83 @@
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe.config
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.pdb
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\EntityFramework.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\UnityEditor.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\it\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\ja\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csprojResolveAssemblyReference.cache
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Form1.resources
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Properties.Resources.resources
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.GenerateResource.Cache
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.exe
+C:\Users\SARIGÜL\Desktop\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.pdb
+D:\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe.config
+D:\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.exe
+D:\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.pdb
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe.config
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.exe
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.pdb
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.pdb
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\de\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\es\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\fr\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\it\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ja\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ko\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ru\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csprojResolveAssemblyReference.cache
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Form1.resources
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Properties.Resources.resources
+D:\diğer\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.GenerateResource.Cache
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe.config
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.pdb
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\de\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\es\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\fr\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\it\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ja\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ko\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ru\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hant\EntityFramework.resources.dll
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csprojAssemblyReference.cache
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Form1.resources
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Properties.Resources.resources
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.GenerateResource.cache
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.CoreCompileInputs.cache
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.CopyComplete
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.exe
+E:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.pdb
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe.config
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.exe
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\TCPBARYENİ.pdb
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\de\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\es\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\fr\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\it\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ja\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ko\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\ru\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csprojAssemblyReference.cache
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Form1.resources
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.Properties.Resources.resources
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.GenerateResource.cache
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.CoreCompileInputs.cache
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.csproj.CopyComplete
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.exe
+D:\ERASMUS\Arctic Proje\TCPBARYENİ\TCPBARYENİ\obj\Debug\TCPBARYENİ.pdb
