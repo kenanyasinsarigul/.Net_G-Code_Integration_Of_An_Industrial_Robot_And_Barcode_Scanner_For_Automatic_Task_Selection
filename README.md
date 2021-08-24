@@ -1,4 +1,6 @@
-Do the special operation as like as logo sticking, packaging and etc. by seperating
+Arctic S.A. Gaeşti / Romania - Erasmus Internship Project & Ljubljana University Mechanical Engineering Erasmus Programme Bachelor Thesis
+
+About : Do the special operation as like as logo sticking, packaging and etc. by seperating
 the brand of the finished assembled refrigerators in the production line by the
 universal robot and sick barcode scanner which communicated by c# programming
 language which is entegrated to the production line. (PLC, C# Tcp functions,
