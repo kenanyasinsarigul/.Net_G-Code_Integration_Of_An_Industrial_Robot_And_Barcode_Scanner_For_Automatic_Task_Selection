@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/51781007/134930584-08673743-2b2a-4233-
 
 <strong>Arctic S.A. Gaeşti / Romania - Erasmus Internship Project & Ljubljana University Mechanical Engineering Erasmus Programme Bachelor Thesis (2018 / 2019)</strong>
 
-Description of the project : Do the special operation as like as logo sticking, packaging and etc. by seperating
+<strong>Description of the project :</strong> Do the special operation as like as logo sticking, packaging and etc. by seperating
 the brand of the finished assembled refrigerators in the production line by the
 universal robot and sick barcode scanner which communicated by c# programming
 language which is entegrated to the production line. (PLC, C# Tcp functions,
