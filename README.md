@@ -16,6 +16,8 @@
   </p>
 </p>
 
+https://user-images.githubusercontent.com/51781007/134930202-517ac6ef-25e7-41aa-a8fa-904615e5a020.mp4
+
 Arctic S.A. Gaeşti / Romania - Erasmus Internship Project & Ljubljana University Mechanical Engineering Erasmus Programme Bachelor Thesis (2018 / 2019)
 
 Description of the project : Do the special operation as like as logo sticking, packaging and etc. by seperating
