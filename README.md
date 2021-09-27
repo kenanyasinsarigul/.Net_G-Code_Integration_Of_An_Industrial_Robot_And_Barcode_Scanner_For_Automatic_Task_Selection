@@ -7,7 +7,7 @@
 
   <h2 align="center">.Net_G-Code_Integration_Of_An_Industrial_Robot_And_Barcode_Scanner_For_Automatic_Task_Selection (2018 / 2019)</h2>
   <p align="center">
-    Project : <a href="https://github.com/kenanyasinsarigul/.Net_G-Code_Integration_Of_An_Industrial_Robot_And_Barcode_Scanner_For_Automatic_Task_Selection">ASPX</a>
+    Project : <a href="https://github.com/kenanyasinsarigul/.Net_G-Code_Integration_Of_An_Industrial_Robot_And_Barcode_Scanner_For_Automatic_Task_Selection">.NET / G-CODE</a>
     <br />
     <br />
     <a href="https://github.com/kenanyasinsarigul/.Net_G-Code_Integration_Of_An_Industrial_Robot_And_Barcode_Scanner_For_Automatic_Task_Selection/issues">Report Bug</a>
