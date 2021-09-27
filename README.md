@@ -18,7 +18,7 @@
 
 https://user-images.githubusercontent.com/51781007/134930584-08673743-2b2a-4233-ba87-f94993b3cb57.mp4
 
-Arctic S.A. Gaeşti / Romania - Erasmus Internship Project & Ljubljana University Mechanical Engineering Erasmus Programme Bachelor Thesis (2018 / 2019)
+<p style="font-style:italic;">Arctic S.A. Gaeşti / Romania - Erasmus Internship Project & Ljubljana University Mechanical Engineering Erasmus Programme Bachelor Thesis (2018 / 2019)</p>
 
 Description of the project : Do the special operation as like as logo sticking, packaging and etc. by seperating
 the brand of the finished assembled refrigerators in the production line by the
