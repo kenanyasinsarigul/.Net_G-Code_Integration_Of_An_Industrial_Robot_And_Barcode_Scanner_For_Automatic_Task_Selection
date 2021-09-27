@@ -16,7 +16,7 @@
   </p>
 </p>
 
-https://user-images.githubusercontent.com/51781007/134930202-517ac6ef-25e7-41aa-a8fa-904615e5a020.mp4
+https://user-images.githubusercontent.com/51781007/134930584-08673743-2b2a-4233-ba87-f94993b3cb57.mp4
 
 Arctic S.A. Gaeşti / Romania - Erasmus Internship Project & Ljubljana University Mechanical Engineering Erasmus Programme Bachelor Thesis (2018 / 2019)
 
